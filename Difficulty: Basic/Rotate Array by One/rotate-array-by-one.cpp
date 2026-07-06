@@ -3,14 +3,11 @@ class Solution {
     void rotate(vector<int> &arr) {
         // code here
         int n = arr.size();
+        int last = arr[n-1];
         
-        vector <int> temp(n);
-        
-        temp[0]= arr[n-1];
-        
-        for(int i=0; i<n-1; i++){
-            temp[i+1]= arr[i];
+        for(int i= n-1; i>0; i--){
+            arr[i]= arr[i-1];
         }
-        arr = temp;
+        arr[0]= last;
     }
 };
