@@ -7,6 +7,47 @@
 **Order:** Basic → Easy → Medium → Hard  
 **Recommended Language:** C++17
 
+# 🚀 400 Days DSA Challenge
+
+Solving one DSA problem every day for 400 days.
+
+🎯 Focus: Pattern Recognition & Problem Solving
+💻 Language: C++17
+📚 Platform: GeeksforGeeks
+🔥 Challenge: 400 Days • 400 Problems • Consistency
+
+## 馃彚 50 Target Companies
+
+> Company names for DSA interview preparation. Question-wise company tags should be added only when a problem is reliably reported/verified for that company.
+
+| # | Company | # | Company |
+|---:|---|---:|---|
+| 1 | Google | 26 | Flipkart |
+| 2 | Microsoft | 27 | Myntra |
+| 3 | Amazon | 28 | Meesho |
+| 4 | Meta | 29 | PhonePe |
+| 5 | Apple | 30 | Razorpay |
+| 6 | Adobe | 31 | Paytm |
+| 7 | Netflix | 32 | Zomato |
+| 8 | Uber | 33 | Swiggy |
+| 9 | Airbnb | 34 | Ola |
+| 10 | LinkedIn | 35 | CRED |
+| 11 | Oracle | 36 | Zoho |
+| 12 | IBM | 37 | Atlassian |
+| 13 | Salesforce | 38 | ServiceNow |
+| 14 | Walmart | 39 | Intuit |
+| 15 | NVIDIA | 40 | SAP |
+| 16 | Intel | 41 | TCS |
+| 17 | Qualcomm | 42 | Infosys |
+| 18 | Cisco | 43 | Wipro |
+| 19 | PayPal | 44 | Accenture |
+| 20 | Visa | 45 | Cognizant |
+| 21 | Mastercard | 46 | Capgemini |
+| 22 | Goldman Sachs | 47 | HCLTech |
+| 23 | Morgan Stanley | 48 | Tech Mahindra |
+| 24 | JPMorgan Chase | 49 | Deloitte |
+| 25 | American Express | 50 | Samsung |
+
 ## Progress
 
 - [x] Basic foundation
