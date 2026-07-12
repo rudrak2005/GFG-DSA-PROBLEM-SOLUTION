@@ -64,8 +64,8 @@ Solving one DSA problem every day for 400 days.
 - [x] **Q003. Palindrome Number** — `Easy`
 - [x] **Q004. Armstrong Numbers** — `Easy`
 - [x] **Q005. GCD of two numbers** — `Easy`
-- [ ] **Q006. LCM of two numbers** — `Easy`
-- [ ] **Q007. Prime Number** — `Easy`
+- [x] **Q006. LCM of two numbers** — `Easy`
+- [x] **Q007. Prime Number** — `Easy`
 - [ ] **Q008. Perfect Number** — `Medium`
 - [ ] **Q009. Sieve of Eratosthenes** — `Medium`
 - [ ] **Q010. Power of Numbers** — `Medium`
