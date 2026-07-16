@@ -65,12 +65,12 @@ Solving one DSA problem every day for 400 days.
 - [x] **Q004. Armstrong Numbers** — `Easy`
 - [x] **Q005. GCD of two numbers** — `Easy`
 - [x] **Q006. LCM of two numbers** — `Easy`
-- [x] **Q007. Prime Number** — `Easy`
-- [ ] **Q008. Perfect Number** — `Medium`
-- [ ] **Q009. Sieve of Eratosthenes** — `Medium`
+- [x] **Q007. Prime Number** — `Easy` 
+- [x] **Q008. Trailing zeroes in factorial** — `Easy`
+- [x] **Q009. Sieve of Eratosthenes** — `Medium`
 - [ ] **Q010. Power of Numbers** — `Medium`
-- [x] **Q011. Trailing zeroes in factorial** — `Medium`
-- [ ] **Q012. Exactly 3 Divisors** — `Medium`
+- [x] **Q011. Raise to Power of Its Own Reverse** — `Medium`
+- [x] **Q012. Exactly 3 Divisors** — `Medium`
 - [x] **Q013. Modular Exponentiation** — `Medium`
 - [ ] **Q014. Compute nCr** — `Medium`
 - [ ] **Q015. Largest prime factor** — `Medium`
