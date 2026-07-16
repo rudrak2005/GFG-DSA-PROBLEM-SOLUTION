@@ -69,9 +69,9 @@ Solving one DSA problem every day for 400 days.
 - [ ] **Q008. Perfect Number** — `Medium`
 - [ ] **Q009. Sieve of Eratosthenes** — `Medium`
 - [ ] **Q010. Power of Numbers** — `Medium`
-- [ ] **Q011. Trailing zeroes in factorial** — `Medium`
+- [x] **Q011. Trailing zeroes in factorial** — `Medium`
 - [ ] **Q012. Exactly 3 Divisors** — `Medium`
-- [ ] **Q013. Modular Exponentiation** — `Medium`
+- [x] **Q013. Modular Exponentiation** — `Medium`
 - [ ] **Q014. Compute nCr** — `Medium`
 - [ ] **Q015. Largest prime factor** — `Medium`
 - [ ] **Q016. Prime Factors** — `Medium`
