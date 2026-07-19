@@ -16,7 +16,7 @@ Solving one DSA problem every day for 400 days.
 📚 Platform: GeeksforGeeks
 🔥 Challenge: 400 Days • 400 Problems • Consistency
 
-## 馃彚 50 Target Companies
+##  50 Target Companies
 
 > Company names for DSA interview preparation. Question-wise company tags should be added only when a problem is reliably reported/verified for that company.
 
@@ -72,8 +72,8 @@ Solving one DSA problem every day for 400 days.
 - [x] **Q011. Raise to Power of Its Own Reverse** — `Medium`
 - [x] **Q012. Exactly 3 Divisors** — `Medium`
 - [x] **Q013. Modular Exponentiation** — `Medium`
-- [ ] **Q014. Compute nCr** — `Medium`
-- [ ] **Q015. Largest prime factor** — `Medium`
+- [x] **Q014. Compute nCr** — `Medium`
+- [x] **Q015. Largest prime factor** — `Medium`
 - [ ] **Q016. Prime Factors** — `Medium`
 - [ ] **Q017. Sum of all divisors** — `Medium`
 - [ ] **Q018. Count Primes** — `Hard`
