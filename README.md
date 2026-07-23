@@ -68,18 +68,18 @@ Solving one DSA problem every day for 400 days.
 - [x] **Q007. Prime Number** — `Easy` 
 - [x] **Q008. Trailing zeroes in factorial** — `Easy`
 - [x] **Q009. Sieve of Eratosthenes** — `Medium`
-- [ ] **Q010. Power of Numbers** — `Medium`
+- [x] **Q010. All Divisors of Number** — `Medium`
 - [x] **Q011. Raise to Power of Its Own Reverse** — `Medium`
 - [x] **Q012. Exactly 3 Divisors** — `Medium`
 - [x] **Q013. Modular Exponentiation** — `Medium`
 - [x] **Q014. Compute nCr** — `Medium`
 - [x] **Q015. Largest prime factor** — `Medium`
-- [ ] **Q016. Prime Factors** — `Medium`
-- [ ] **Q017. Sum of all divisors** — `Medium`
-- [ ] **Q018. Count Primes** — `Hard`
-- [ ] **Q019. Excel Sheet Column Number** — `Hard`
-- [ ] **Q020. Fraction Addition** — `Hard`
-- [ ] **Q021. Nth Natural Number** — `Hard`
+- [x] **Q016. Prime Factorization using sieve** — `Medium`
+- [x] **Q017. Count Primes Less than N** — `Medium`
+- [ ] **Q018. Euler Totient Function** — `Hard`
+- [ ] **Q019. Extended Euclidean Algorithmr** — `Hard`
+- [ ] **Q020. Prime Pair With Target Sum** — `Hard`
+- [ ] **Q021. Modular Multiplicatie Inverse** — `Hard`
 
 ---
 
