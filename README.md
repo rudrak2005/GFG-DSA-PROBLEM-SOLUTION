@@ -85,8 +85,8 @@ Solving one DSA problem every day for 400 days.
 
 ## 02 Arrays
 
-- [ ] **Q022. Min and Max in Array** — `Basic`
-- [ ] **Q023. Largest Element in Array** — `Basic`
+- [x] **Q022. Min and Max in Array** — `Basic`
+- [x] **Q023. Largest Element in Array** — `Basic`
 - [ ] **Q024. Second Largest** — `Easy`
 - [ ] **Q025. Third Largest Element** — `Easy`
 - [ ] **Q026. Reverse an Array** — `Easy`
