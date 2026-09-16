@@ -1,0 +1,20 @@
+class Solution {
+  public:
+    int dominantPairs(vector<int> &arr) {
+        // Code here
+        int n = arr.size();
+        sort(arr.begin(), arr.begin() + n/2);
+        
+        sort(arr.begin() + n/2, arr.end());
+        int count = 0;
+        int right =n/2;
+        
+        for(int left = 0; left <n/2; left++){
+            while(right < n && arr[left]>= 5LL * arr[right]){
+                right++;
+            }
+            count+= right -n/2;
+        }
+        return count;
+    }
+};
